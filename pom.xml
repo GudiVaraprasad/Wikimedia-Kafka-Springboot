@@ -15,7 +15,8 @@
 	<description>A producer-consumer pipeline to ingest real-time Wikimedia events using Kafka</description>
 	<modules>
 		<module>wikimedia-producer</module>
-	</modules>
+        <module>wikimedia-consumer</module>
+    </modules>
 	<packaging>pom</packaging>
 	<url/>
 	<licenses>
